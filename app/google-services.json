@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111885252364",
+    "project_id": "taskminder-d899d",
+    "storage_bucket": "taskminder-d899d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111885252364:android:eb937cbc935afc0ce3bb29",
+        "android_client_info": {
+          "package_name": "com.example.taskminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAWIei4oUUDD9HO-MPqsbfcG0BkRLg3bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

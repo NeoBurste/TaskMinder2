@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TaskMinder</string>
+    <!-- MAIN-->
+    <string name="btn_login">Login</string>
+    <string name="btn_registro">Registro</string>
+    <!-- Registro -->
+    <string name="CrearCuenta">Crear una cuenta</string>
+    <string name="NombreEt">Nombres</string>
+    <string name="CorreoEt">Correo Electronico</string>
+    <string name="ContrasenaEt">Contraseña</string>
+    <string name="ConfirmarContrasenaEt">Confirmar Contraseña</string>
+    <string name="RegistrarUsuario">Registrar</string>
+    <string name="TengounaCuentaTXT">Tengo una cuenta</string>
+
+    <!-- MENU PRINCIPAL-->
+    <string name="CerrarSesion">Salir</string>
+
+    <!-- LOGIN-->
+    <string name="IniciarSesion">Iniciar Sesion</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Login">Ingresar</string>
+    <string name="UsuarioNuevoTXT">No tienes cuenta? Registrate.</string>
+
+    <!--MENU PRINCIPAL-->
+    <string name="BienvenidoPrincipal">Bienvenido(a)</string>
+    <string name="NombresPrincipal"> -- </string>
+    <string name="CorreoPrincipal"> -- </string>
+
+    <!--- AGREGAR TAREA-->
+    <string name="uid_usuario">Uid Usuario</string>
+    <string name="Correo_Usuario">Correo del usuario</string>
+    <string name="Fecha_hora_actual">Fecha y hora actual</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Btn_Calendario">Calendario</string>
+    <string name="Fecha">00/00/0000</string>
+    <string name="Estado">No finalizado</string>
+
+</resources>
